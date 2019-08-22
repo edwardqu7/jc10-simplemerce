@@ -25,7 +25,7 @@ class Register extends Component {
                             <div className="card-title ">
                                 <h4>Email</h4>
                             </div>
-                            <input type='password' className='form-control'/>
+                            <input type='email' className='form-control'/>
 
                             <div className="card-title ">
                                 <h4>Password</h4>
